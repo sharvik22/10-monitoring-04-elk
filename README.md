@@ -69,11 +69,10 @@ Filebeat следует сконфигурировать для отправки
 
 ![image](https://github.com/user-attachments/assets/9d61f522-7a13-4734-868f-d113194c6d10)
 
-
-
 ---
 
 ## Задание 2
+
 
 
 ---
